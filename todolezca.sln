@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolezca.Common", "todolezca.Common\todolezca.Common.csproj", "{AA2F7D00-A5F6-4089-8C6C-08ACFF2281AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todolezca.Common", "todolezca.Common\todolezca.Common.csproj", "{AA2F7D00-A5F6-4089-8C6C-08ACFF2281AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolezca.Fuctions", "todolezca.Fuctions\todolezca.Fuctions.csproj", "{3E07B4FB-7ECD-4253-99CD-9603305EBCCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todolezca.Fuctions", "todolezca.Fuctions\todolezca.Fuctions.csproj", "{3E07B4FB-7ECD-4253-99CD-9603305EBCCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolezca.Test", "todolezca.Test\todolezca.Test.csproj", "{DDB0D0B9-B8D1-4B1A-B923-9BBB09076849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todolezca.Test", "todolezca.Test\todolezca.Test.csproj", "{DDB0D0B9-B8D1-4B1A-B923-9BBB09076849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
